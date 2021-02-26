@@ -1,5 +1,5 @@
 Item_Category,Item_Name,Price,Customer,Qty
-Clothing ,Ladies_Jeans,70,Charlie Wooden,2
+Clothing,Ladies_Jeans,70,Charlie Wooden,2
 Clothing,Mens_Jeans,80,Matthew,1
 Clothing,NIKE_Running_Shoes,200,Matthew,2
 Stationary,Maped_Sketchpens,20,Matthew,5
@@ -7,20 +7,20 @@ Clothing,VANS Backpack,125,Ridge June,1
 Stationary,POST-Its,5,Ridge June,5
 Stationary,FaberCastle_Pens,30,Ridge June,10
 Electronics,JBLBluetoothSpeakers,600,Ridge June,4
-Stationary,POST-Its,5,Joby George, 30
+Stationary,POST-Its,5,Joby George,30
 Stationary,Flamingo_Notebook,50,Joby George,5
 Electronics,XBOX One,2000,Joby George,1
 Electronics,HP_Envy_Laptop,2300,Matthew,1
 Electronics,JBLBluetoothSpeakers,600,Matthew,2
-Stationary,Maped_Sketchpens,20,Matthew,12
+Stationary,Maped_Sketchpen,20,Matthew,12
 Stationary,POST-Its,5,Warner Kent,40
 Electronics,HP_Envy_Laptop,2300,Andy Knit,1
 Grocery,Cabbage,50,Jeff Jefferson,13
 Grocery,Tomato,40,Jeff Jefferson,30
 Stationary,FaberCastle_Pens,30,Andy Knit,20
 Clothing,Mens_Jeans,80,Charlie Wooden,2
-Grocery,Maggi,10, Ian Dior, 21
-Stationary,Glow Pens, 12,Ian Dior, 12
-Grocery, Jim Jams, 15,Golden Mario, 10
-Grocery, Sweets, 1,Golden Mario, 50
-Stationary, Glue Stick, 8, Justrice Jones, 2
+Grocery,Maggi,10,Ian Dior,21
+Stationary,Glow Pens,12,Ian Dior,12
+Grocery,Jim Jams,15,Golden Mario,10
+Grocery,Sweets,1,Golden Mario,50
+Stationary,Glue Stick,8,Justrice Jones,2
